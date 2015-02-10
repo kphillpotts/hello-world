@@ -6,3 +6,5 @@ Edited in the branch... because that's what the instructions tell me to do... an
 A good resource here https://guides.github.com/introduction/flow/index.html
 
 associate this with an issue
+
+fixes an issue
